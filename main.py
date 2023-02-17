@@ -1,2 +1,2 @@
-name2 = input('What is your name?\n')
-print('Hi, %s.' % name2)
+name3 = input('What is your name?\n')
+print('Hi, %s.' % name3)
