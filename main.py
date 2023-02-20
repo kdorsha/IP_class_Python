@@ -12,5 +12,5 @@ with open(file_name, "w") as file:
   
 #read and display the contents set by file_name variable   
 with open(file_name, "r") as file:   
-    contents = file.read()   
-    print(contents)
+  contents = file.read()   
+  print(contents)
